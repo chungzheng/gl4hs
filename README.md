@@ -1,4 +1,4 @@
-# GL4HS
+# NASA Genelab for High Schools Jupyter Notebooks
 Jupyter Notebooks from the NASA Genelab for High Schools course (2025) 
 
 Notebooks:  
