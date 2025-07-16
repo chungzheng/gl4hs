@@ -7,4 +7,5 @@ Notebooks:
 3. Building a reference genome index for mouse chromosome 17
 4. Aligning reads to a reference
 5. Quantifying gene expression
-6. Performing differential gene expression analysis 
+6. Performing differential gene expression analysis
+7. Performing pathway and gene set enrichment analysis 
